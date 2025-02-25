@@ -1,0 +1,21 @@
+.idea
+**/*.iml
+**.*.class
+jte-classes/*
+jte-classes
+# build files #
+######################
+build.properties
+tmp
+target
+bin
+
+# eclipse files #
+######################
+.classpath
+.checkstyle
+.project
+**/test-output/**
+**/.settings
+
+**/pom.xml.versionsBackup
