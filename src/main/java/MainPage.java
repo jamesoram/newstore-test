@@ -6,5 +6,5 @@ public class MainPage extends AbstractPage {
         super(driver);
     }
 
-    
+
 }
